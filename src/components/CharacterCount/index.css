@@ -1,0 +1,11 @@
+.list-item {
+  color: #272c47;
+  font-size: 18px;
+  font-weight: 700;
+  font-family: 'Roboto';
+}
+
+.length {
+  font-size: 20px;
+  font-weight: 800;
+}
